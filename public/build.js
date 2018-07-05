@@ -18355,7 +18355,7 @@ exports = module.exports = __webpack_require__(29)(false);
 
 
 // module
-exports.push([module.i, "div {\n  color: red;\n}\n", ""]);
+exports.push([module.i, "div {\n  color: yellow;\n}\n", ""]);
 
 // exports
 
